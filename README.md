@@ -1,4 +1,4 @@
-# Gesture-Controlled Subway Surfers Clone
+# Gesture-Controlled Subway Surfers
 
 ## Screenshot:
 ![Screenshot 2025-06-18 at 23 46 01](https://github.com/user-attachments/assets/1fb2b852-657a-4765-a4d8-a5aad9fb9c99)![Screenshot 2025-06-18 at 23 43 54](https://github.com/user-attachments/assets/cd99b7d9-fa66-4abc-be0c-8173c6b69284)
@@ -7,7 +7,7 @@
 ![Screenshot 2025-06-18 at 23 43 33](https://github.com/user-attachments/assets/909fd268-557f-442c-9aeb-a158a84f7cd7)
 
 ## English
-# Gesture-Controlled Subway Surfers Clone
+# Gesture-Controlled Subway Surfers
 
 Control the Subway Surfers game using real-time hand gestures captured via webcam!  
 This project utilizes **MediaPipe**, **OpenCV**, and **PyAutoGUI** to recognize hand gestures and simulate keyboard inputs automatically.
@@ -37,7 +37,7 @@ This project utilizes **MediaPipe**, **OpenCV**, and **PyAutoGUI** to recognize 
 ---
 
 ## Indonesia
-# Gesture-Controlled Subway Surfers Clone
+# Gesture-Controlled Subway Surfers
 
 Kontrol game Subway Surfers menggunakan gerakan tangan berbasis kamera secara real-time!  
 Proyek ini memanfaatkan **MediaPipe**, **OpenCV**, dan **PyAutoGUI** untuk mengenali gesture tangan dan mengontrol game melalui input keyboard otomatis.
