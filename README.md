@@ -1,4 +1,4 @@
-English
+## English
 # Gesture-Controlled Subway Surfers Clone
 
 Control the Subway Surfers game using real-time hand gestures captured via webcam!  
