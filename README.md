@@ -28,7 +28,7 @@ This project utilizes **MediaPipe**, **OpenCV**, and **PyAutoGUI** to recognize 
 
 ---
 
-Indonesia
+## Indonesia
 # Gesture-Controlled Subway Surfers Clone
 
 Kontrol game Subway Surfers menggunakan gerakan tangan berbasis kamera secara real-time!  
